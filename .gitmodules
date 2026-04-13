@@ -1,0 +1,3 @@
+[submodule "assets/grants_common"]
+	path = assets/grants_common
+	url = git@github.com:BonhamLab/assets_grants_common
