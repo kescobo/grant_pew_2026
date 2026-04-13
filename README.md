@@ -1,11 +1,11 @@
-# Grant Template
+# Pew 2026
 
-[![full|release](https://img.shields.io/badge/full-release-blue?logo=adobeacrobatreader)](https://github.com/YOUR-USERNAME/YOUR-REPO/releases/latest/download/grant.pdf)
-[![full|dev](https://img.shields.io/badge/full-dev-orange?logo=adobeacrobatreader)](https://nightly.link/YOUR-USERNAME/YOUR-REPO/workflows/preview/main/grant-preview.zip)
-[![aims|release](https://img.shields.io/badge/aims-release-blue?logo=adobeacrobatreader)](https://github.com/YOUR-USERNAME/YOUR-REPO/releases/latest/download/aims.pdf)
-[![aims|dev](https://img.shields.io/badge/aims-dev-orange?logo=adobeacrobatreader)](https://nightly.link/YOUR-USERNAME/YOUR-REPO/workflows/preview/main/aims-preview.zip)
+[![full|release](https://img.shields.io/badge/full-release-blue?logo=adobeacrobatreader)](https://github.com/bonhamlab/grant_pew_2026/releases/latest/download/grant.pdf)
+[![full|dev](https://img.shields.io/badge/full-dev-orange?logo=adobeacrobatreader)](https://nightly.link/bonhamlab/grant_pew_2026/workflows/preview/main/grant-preview.zip)
+[![aims|release](https://img.shields.io/badge/aims-release-blue?logo=adobeacrobatreader)](https://github.com/bonhamlab/grant_pew_2026/releases/latest/download/aims.pdf)
+[![aims|dev](https://img.shields.io/badge/aims-dev-orange?logo=adobeacrobatreader)](https://nightly.link/bonhamlab/grant_pew_2026/workflows/preview/main/aims-preview.zip)
 
-![Specific Aims preview](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/preview/aims-preview.png)
+![Specific Aims preview](https://raw.githubusercontent.com/bonhamlab/grant_pew_2026/preview/aims-preview.png)
 
 Typst template for NIH-style grant documents. Uses [Liberation Serif](https://github.com/liberationfonts/liberation-fonts) and enforces NIH formatting rules (US Letter, 0.5″ margins, 11 pt, justified text, heading styles).
 
