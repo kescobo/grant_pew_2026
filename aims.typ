@@ -7,6 +7,8 @@ demonstrated that microbial succession follows conserved universal patterns acro
 and socioeconomic settings —
 patterns consistent enough that microbial composition alone predicts infant age to within 2–3 months.
 Separately, analyses of the ECHO-Resonance (n=224, Boston) and Khula (n=427, Cape Town) cohorts
+@bonhamGutresidentMicroorganismsTheir2023
+@bonhamCodevelopmentGutMicrobial2025
 showed that specific microbial species and their neuroactive gene products in the first six months of life
 predict cognitive function scores,
 brain morphology by MRI,
