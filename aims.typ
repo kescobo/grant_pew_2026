@@ -77,7 +77,7 @@ I will quantify which trajectory features are disrupted,
 when disruption occurs,
 and whether trajectory-derived measures predict clinical outcomes
 beyond standard covariates.
-_Expected outcome:_
+#underline[_Expected outcome:_]
 effect-size estimates and validated predictive models
 sufficient to power future interventional studies
 targeting microbiome normalization in high-risk infants.
